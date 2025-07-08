@@ -93,7 +93,7 @@ This project delivers an end-to-end **Data Warehouse and ETL pipeline** for a ba
 
 - Make sure the settings are as below, where the data type needs to be considered and all columns are entered
 <p align="center">
-  <img src="https://https://github.com/anandawln/IDX-Partners-Data-Engineer/blob/main/assets/meta_csv.png"width="45%"/>
+  <img src="https://github.com/anandawln/IDX-Partners-Data-Engineer/blob/main/assets/meta_csv.png" width="30%"/>
   <img src="https://github.com/anandawln/IDX-Partners-Data-Engineer/blob/main/assets/meta_excel.png" width="45%"/>
 </p>
 
