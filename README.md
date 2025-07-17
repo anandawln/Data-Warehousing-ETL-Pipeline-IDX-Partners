@@ -1,4 +1,9 @@
 # Client-Focused Data Warehouse and ETL Workflow with Talend & T-SQL Procedures
+
+<div align="center">
+<img width = "80%" src = "https://github.com/anandawln/IDX-Partners-Data-Engineer/blob/main/assets/talend%20etl.drawio.png">
+</div>
+
 ## 🏗️ Data Warehouse & ETL Project: ID/X Partners Banking Client
 
 This project delivers an end-to-end **Data Warehouse and ETL pipeline** for a banking client of **ID/X Partners**, integrating data from multiple disparate sources using **Talend Open Studio** and **Microsoft SQL Server**. It also includes dynamic **Stored Procedures** to support on-demand reporting and analysis.
